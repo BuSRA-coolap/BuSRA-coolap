@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Büsra
+- 👋 Hi, I’m BuSRA-coolap
 - 🌱 I’m currently learning react frontend
 <!---
 BuSRA-coolap/BuSRA-coolap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
